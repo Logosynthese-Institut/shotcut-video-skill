@@ -1,4 +1,5 @@
-# shotcut-video-skill
+# shotcut-video
+
 Ein Claude-Skill, der aus einem Video-Transkript und einer leeren Shotcut-Projektdatei automatisch einen begründeten Schnittvorschlag sowie die fertige, geschnittene Shotcut-Projektdatei (`.mlt`) erstellt.
 
 **Autor:** Karsten Blauel
