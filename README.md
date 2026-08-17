@@ -18,7 +18,7 @@ Der Skill liefert immer die editierbare Projektdatei, nie ein fertig gerendertes
 - Ein Transkript mit Zeitstempeln im Format `HH:MM:SS`
 - Eine leere Shotcut-Projektdatei mit dem vollständigen Rohvideo auf der Zeitleiste
 
-Eine ausführliche Schritt-für-Schritt-Anleitung liegt diesem Repository bei (`Anleitung_Videoschnitt-Skill.docx`).
+Eine ausführliche Schritt-für-Schritt-Anleitung liegt diesem Repository bei (`Anleitung_Videoschnitt-Skill_v1.0.pdf`).
 
 ## Installation
 
